@@ -1,18 +1,24 @@
-# Array - Iteration
+# Arrays - Iteration
 
 ![Drawing](http://i.imgur.com/mkMJb1x.jpg?1)
 
 > Hodor. -[Hodor](http://gameofthrones.wikia.com/wiki/Hodor)
 
+## Overview 
+
+In this lesson, we'll cover how to iterate, or perform the same action multiple times, over an array. 
+
 ## Learning Objectives 
 
-- Explain the problem they are solving by being able to iterate over values in an `Array`.
-- Create a `for-in` loop to iterate over an `Array`.
+- Use looping to iterate over an array
+- Use conditional statements within loops
+- Add loops to functions
+- Create a `for-in` loop to iterate over an `Array`
 
 
 ## Improving Repetitive Tasks
 
-In the last lesson you saw how to create and manipulate a collection of values. You also saw how to print individual items in that collection, so if you wanted to print a list of your three friends you could do the following:
+Creating arrays can allow us manipulate a collection of values. You can also print individual items in that collection, so if you wanted to print a list of your three friends you could do the following:
 
 ```swift
 let friends = ["Chris", "Billy", "Jessica"]
