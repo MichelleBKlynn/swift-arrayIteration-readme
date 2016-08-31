@@ -102,7 +102,7 @@ In the above, you iterate the `friends` list printing the value of each index in
 
 ## Loops and Functions
 
-Functions are a convenient way to package functionality into reusable components. You can add any code can into a function, including loops.
+Functions are a convenient way to package functionality into reusable components. You can add any code into a function, including loops.
 
 Say for example you want to know how many of your friends got over 70 in their recent exam.
 
