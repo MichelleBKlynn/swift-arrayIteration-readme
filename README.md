@@ -48,7 +48,7 @@ for friend in friends {
 // Hello Jessica
 ```
 
-This examples starts with a familiar array initialization, but then instead of using the `print` command for each value in the array, says that `for` each value in the `friends` array, process the instructions in-between the `{}` symbols, which are called 'curly brackets' or 'mustaches'. In this example these instructions print the current value of `friend`, or the value of the current index in the `friends` array, in the order they appear in the array.
+This example starts with a familiar array initialization, but then instead of using the `print` command for each value in the array, says that `for` each value in the `friends` array, process the instructions in-between the `{}` symbols, which are called 'curly brackets' or 'mustaches'. In this example these instructions print the current value of `friend`, or the value of the current index in the `friends` array, in the order they appear in the array.
 
 As `friends` is an array of type String, the type of `friend` will also be a String, and you can confirm this by typing the example above into a playground and _option + clicking_ `friend`.
 
@@ -136,3 +136,5 @@ Next iterate through each value in the `grades` array and if the value at the cu
 Have a good look at the code above as it introduces a lot of new, but essential concepts. Try this code in a playground and add some `print` commands to see if your understanding of it matches the practical application.
 
 [View this lesson on Learn.co](https://learn.co/lessons/ArrayIteration)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-arrayIteration-readme'>Iterating Over an Array</a> on Learn.co and start learning to code for free.</p>
